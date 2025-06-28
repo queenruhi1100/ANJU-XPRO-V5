@@ -63,8 +63,8 @@ Twitter URL: ${q}
         `.trim();
   },
   //=================main==================================
-  ALIVEIMG: "https://i.ibb.co/Rxmx10Q/Rashmika-Ofc.jpg",
-  ALIVEVOICE: "./src/.aac",
+  ALIVEIMG: "https://files.catbox.moe/p3vzjq.jpg",
+  ALIVEVOICE: "https://files.catbox.moe/zf8z97.opus",
   ALIVEMSG: function (hostname, config, pushname, runtime) {
     return `
 ✈︎❤️ 𝐐𝐔𝐄𝐄𝐍 𝐑𝐔𝐇𝐈 𝐀𝐋𝐈𝐕𝐄 𝐒𝐓𝐀𝐓𝐔𝐒 ✈︎❤️
